@@ -1,0 +1,68 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-to-do-list-js": [
+      "component---src-pages-to-do-list-js-2c8d662f1cd5755a339d.js",
+      "component---src-pages-to-do-list-js-2c8d662f1cd5755a339d.js.map"
+    ],
+    "component---src-pages-admin-order-js": [
+      "component---src-pages-admin-order-js-ca9ac400e9badf254c43.js",
+      "component---src-pages-admin-order-js-ca9ac400e9badf254c43.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-28afb9627b585747d6fa.js",
+      "component---src-pages-index-js-28afb9627b585747d6fa.js.map"
+    ],
+    "path---": [
+      "path----cac63ff5c1b42581353c.js",
+      "path----cac63ff5c1b42581353c.js.map"
+    ],
+    "path---filter": [
+      "path---filter-a0e39f21c11f6a62c5ab.js",
+      "path---filter-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-61fb2bc7151117e27f42.js",
+      "component---src-layouts-index-js-61fb2bc7151117e27f42.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---to-do-list": [
+      "path---to-do-list-a0e39f21c11f6a62c5ab.js",
+      "path---to-do-list-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-b71e7233220735cda602.js",
+      "build-js-styles.css",
+      "commons-b71e7233220735cda602.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-4b5cee297eb3fd1c2b1d.js",
+      "build-js-styles.css",
+      "app-4b5cee297eb3fd1c2b1d.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-filter-js": [
+      "component---src-pages-filter-js-845bbb57d8c5b5c923ed.js",
+      "component---src-pages-filter-js-845bbb57d8c5b5c923ed.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---admin-order": [
+      "path---admin-order-a0e39f21c11f6a62c5ab.js",
+      "path---admin-order-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
